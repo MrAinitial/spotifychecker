@@ -1,6 +1,6 @@
 import time
 from bs4 import BeautifulSoup
-driver = webdriver.Firefox()
+
 
 
 def check(user, password):
